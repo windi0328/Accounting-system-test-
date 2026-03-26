@@ -7,7 +7,3 @@ services:
     dockerContext: ./ExpenseTracker
     healthCheckPath: /healthz
     autoDeployTrigger: commit
-    disk:
-      name: expense-data
-      mountPath: /app/Data
-      sizeGB: 1
