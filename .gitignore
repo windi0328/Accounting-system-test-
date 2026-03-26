@@ -4,4 +4,6 @@
 **/bin/
 **/obj/
 **/transactions.json
+ExpenseTracker/Microsoft/
+ExpenseTracker/NuGet/
 ExpenseTracker/Data/transactions.json
