@@ -1,0 +1,7 @@
+.dotnet/
+.appdata/
+.vs/
+**/bin/
+**/obj/
+**/transactions.json
+ExpenseTracker/Data/transactions.json
